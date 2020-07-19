@@ -1,0 +1,12 @@
+[package]
+name = "temporal"
+version = "1.0.0"
+authors = ["agiel"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+chrono = "0.4.11"
+clap = "3.0.0-beta.1"
+sunrise = "1.0.0"
